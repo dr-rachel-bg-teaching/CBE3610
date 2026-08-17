@@ -114,4 +114,4 @@ See LICENSE for full terms.
 
 Contact
 
-Rachel Getman — r.getman@osu.edu
+Rachel Getman — getman.11@osu.edu
