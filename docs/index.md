@@ -48,7 +48,7 @@ For convenience, here are some frequently used lecture PDFs:
 
 ## Download all materials
 
-- Download all materials (ZIP): https://buckeyemailosu-my.sharepoint.com/:u:/g/personal/getman_11_osu_edu/IQD0aJsO5uxzSL4hUwoYFnnaAaEWHZska_4aT0H9j6CiFeg?e=npDARy
+- <a href="https://buckeyemailosu-my.sharepoint.com/:u:/g/personal/getman_11_osu_edu/IQD0aJsO5uxzSL4hUwoYFnnaAaEWHZska_4aT0H9j6CiFeg?e=npDARy" target="_blank" rel="noopener">Download all materials (ZIP)</a>
 
 Notes for maintainers
 
