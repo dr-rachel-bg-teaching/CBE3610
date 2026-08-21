@@ -10,7 +10,8 @@ Quick links
 - Repository: https://github.com/dr-rachel-bg-teaching/CBE3610
 - Open a notebook in Colab:
   https://colab.research.google.com/github/dr-rachel-bg-teaching/CBE3610/blob/main/colab-notebooks/<notebook-filename>.ipynb
-- Download all materials (ZIP): https://github.com/dr-rachel-bg-teaching/CBE3610/archive/refs/heads/main.zip
+- Download all materials (ZIP): https://buckeyemailosu-my.sharepoint.com/:u:/g/personal/getman_11_osu_edu/IQD0aJsO5uxzSL4hUwoYFnnaAaEWHZska_4aT0H9j6CiFeg?e=npDARy
+- Download all materials (repository ZIP): https://github.com/dr-rachel-bg-teaching/CBE3610/archive/refs/heads/main.zip
 - Releases: https://github.com/dr-rachel-bg-teaching/CBE3610/releases
 
 Student instructions (short)
