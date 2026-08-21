@@ -1,8 +1,8 @@
-# CBE3610 — Course Materials
+# CBE3610 — Course Materials (index)
 
-Welcome — this page lists the lecture Colab notebooks for CBE3610. Click any notebook to open it directly in Google Colab.
+Welcome — this page lists the Google Colab notebooks, lecture notes, and the course handbook for CBE3610. Click any notebook to open it directly in Google Colab; click any PDF to view it on GitHub.
 
-Notebooks (open in Colab)
+## Notebooks (open in Colab)
 
 - [00_Refresher_NumericalIntegration_Interpolation_Regression.ipynb](https://colab.research.google.com/github/dr-rachel-bg-teaching/CBE3610/blob/main/colab-notebooks/00_Refresher_NumericalIntegration_Interpolation_Regression.ipynb)
 - [01_Refresher_InitialValueProblems.ipynb](https://colab.research.google.com/github/dr-rachel-bg-teaching/CBE3610/blob/main/colab-notebooks/01_Refresher_InitialValueProblems.ipynb)
@@ -24,4 +24,35 @@ Notebooks (open in Colab)
 - [17_COMPLETION_ACTIVITY_CalculatingXmmAndXsegFromRTDData.ipynb](https://colab.research.google.com/github/dr-rachel-bg-teaching/CBE3610/blob/main/colab-notebooks/17_COMPLETION_ACTIVITY_CalculatingXmmAndXsegFromRTDData.ipynb)
 - [18_USEFUL_FUNCTION_LinearlyIndependentReactions.ipynb](https://colab.research.google.com/github/dr-rachel-bg-teaching/CBE3610/blob/main/colab-notebooks/18_USEFUL_FUNCTION_LinearlyIndependentReactions.ipynb)
 
+## Lecture notes (PDFs)
 
+You can browse all lecture PDFs in the repository here:
+
+- [All lecture notes on GitHub](https://github.com/dr-rachel-bg-teaching/CBE3610/tree/main/lecture-notes)
+
+For convenience, here are some frequently used lecture PDFs:
+
+- [00 The General Species Balance Equation.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/00%20The%20General%20Species%20Balance%20Equation.pdf)
+- [01 Deriving Mole Balances for Common Reactors.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/01%20Deriving%20Mole%20Balances%20for%20Common%20Reactors.pdf)
+- [14 Catalytic Rate Laws.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/14%20Catalytic%20Rate%20Laws.pdf)
+- [17 The General Energy Balance Equation.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/17%20The%20General%20Energy%20Balance%20Equation.pdf)
+- [18 Energy Balances for CSTRs.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/18%20Energy%20Balances%20for%20CSTRs.pdf)
+- [29 Mixing in reactors and residence time distributions.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/29%20Mixing%20in%20reactors%20and%20residence%20time%20distributions.pdf)
+- [37 Mechanisms in Heterogeneous Catalysis.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/37%20Mechanisms%20in%20Heterogeneous%20Catalysis.pdf)
+
+## Handbook
+
+- [CRE_Handbook.pdf (course handbook)](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/handbook/CRE_Handbook.pdf)
+
+---
+
+Notes for maintainers
+
+- This file is generated from the contents of `colab-notebooks/`, `lecture-notes/`, and `handbook/` on the `main` branch.
+- To regenerate locally run:
+
+```
+python3 scripts/generate_index.py --owner dr-rachel-bg-teaching --repo CBE3610 --branch main
+```
+
+- After regenerating, commit and push `docs/index.md` to `main` to update the published Pages site.
