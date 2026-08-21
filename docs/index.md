@@ -52,7 +52,7 @@ Note: each notebook line includes an "Open in Colab" badge to launch the noteboo
 
 ## Lecture notes (PDFs) — grouped by week
 
-Each lecture PDF is linked below. I included the primary PDFs (non "FILLED IN") and the requested E‑files mapped to weeks.
+Each lecture PDF is linked below. For Filled In versions, see the [lecture-notes](https://github.com/dr-rachel-bg-teaching/CBE3610/tree/main/lecture-notes) folder.
 
 ### Week 1
 - [00 The General Species Balance Equation.pdf](https://github.com/dr-rachel-bg-teaching/CBE3610/blob/main/lecture-notes/00%20The%20General%20Species%20Balance%20Equation.pdf)
