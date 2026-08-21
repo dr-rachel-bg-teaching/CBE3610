@@ -17,6 +17,10 @@ Quick links
 - Handbook: handbook/
 - Download all materials (ZIP): https://buckeyemailosu-my.sharepoint.com/:u:/g/personal/getman_11_osu_edu/IQD0aJsO5uxzSL4hUwoYFnnaAaEWHZska_4aT0H9j6CiFeg?e=npDARy
 
+Weekly grouping
+
+- Lecture notes and Colab notebooks are organized by week in the course index (docs/index.md). Students should use the Pages site (above) to view the week-by-week schedule and launch notebooks or PDFs directly.
+
 Open the notebooks
 
 - View on GitHub: click any `.ipynb` file to see a rendered view.
