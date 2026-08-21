@@ -153,4 +153,4 @@ Each lecture PDF is linked below. For Filled In versions, see the [lecture-notes
 Notes for maintainers
 
 - This file is generated from the contents of `colab-notebooks/`, `lecture-notes/`, and `handbook/` on the `main` branch.
-- To regenerate locally run:
+##- To regenerate locally run:
